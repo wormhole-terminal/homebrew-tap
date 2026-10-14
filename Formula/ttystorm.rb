@@ -1,8 +1,8 @@
 class Ttystorm < Formula
   desc "Stress tests, benchmarks and full-screen animations for any terminal"
   homepage "https://github.com/wormhole-terminal/ttystorm"
-  url "https://github.com/wormhole-terminal/ttystorm/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "4632b3e97c73df289c87b36067dcbf9ddacec08d0c7795ff9ab39bcd985d5e54"
+  url "https://github.com/wormhole-terminal/ttystorm/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "21385fab6e4e5e269d431a24fa798961f85cc4fe78a50dd88fd2b1fe7a64bb6b"
   license "GPL-3.0-or-later"
   head "https://github.com/wormhole-terminal/ttystorm.git", branch: "main"
 
