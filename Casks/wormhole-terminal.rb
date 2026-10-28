@@ -4,7 +4,7 @@ cask "wormhole-terminal" do
 
   url "https://github.com/wormhole-terminal/wormhole/releases/download/v#{version}/Wormhole-#{version}-macos.dmg"
   name "Wormhole"
-  desc "Terminal for working with AI coding agents"
+  desc "Fast native terminal with agent status, git and notes built in"
   homepage "https://getwormhole.app/"
 
   livecheck do

@@ -7,7 +7,7 @@ brew install wormhole-terminal/tap/ttystorm
 
 | Cask | What |
 |---|---|
-| [`wormhole-terminal`](https://getwormhole.app) | Wormhole, the terminal for working with AI coding agents (macOS 14+, Apple Silicon and Intel). It updates itself, so `brew upgrade` leaves it alone unless `--greedy`. Named `wormhole-terminal` because Homebrew's own `wormhole` cask is another app. |
+| [`wormhole-terminal`](https://getwormhole.app) | Wormhole, a fast, native Mac terminal with agent status, git and notes built in (macOS 14+, Apple Silicon and Intel). It updates itself, so `brew upgrade` leaves it alone unless `--greedy`. Named `wormhole-terminal` because Homebrew's own `wormhole` cask is another app. |
 
 | Formula | What |
 |---|---|
