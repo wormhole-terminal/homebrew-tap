@@ -1,6 +1,6 @@
 cask "wormhole-terminal" do
-  version "1.3.0"
-  sha256 "cf9c1d406e74684b1041a6188569bd608032bd787e800ac99c130220a4115640"
+  version "1.6.2"
+  sha256 "f92777af33d07253a01cc0ebbf919f185088c00c1baf0e7db42903e8072be91f"
 
   url "https://github.com/wormhole-terminal/wormhole/releases/download/v#{version}/Wormhole-#{version}-macos.dmg"
   name "Wormhole"
